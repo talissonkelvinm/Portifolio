@@ -1,7 +1,7 @@
 const portfolioLinks = {
   github: "https://github.com/talissonkelvinm",
   linkedin: "",
-  certificates: "",
+  certificates: "https://drive.google.com/drive/folders/128mq_GhvFamwf42FoKXMCjgHF5brsHEm",
   projects: [
     "https://github.com/talissonkelvinm/Autodesk",
     "https://github.com/talissonkelvinm/Desafio-HTML---casa-virtual"
